@@ -20,7 +20,7 @@ A clean, functional, and responsive Flutter app built as part of a **technical a
 
 ## 🧰 Tech Stack
 
-* **Flutter:** 3.x (Dart SDK 3.x)
+* **Flutter:** 3.35.7 (Dart SDK 3.122.0)
 * **Packages Used:**
 
   * [`mobile_number`](https://pub.dev/packages/mobile_number) – SIM info retrieval
