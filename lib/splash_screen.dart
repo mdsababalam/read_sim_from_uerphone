@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:flutter/animation.dart';
 import 'package:technical_task_app/app_utils/app_assets.dart';
 import 'package:technical_task_app/login_screen.dart';
 
